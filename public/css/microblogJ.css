@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+time{
+	font-size: 0.9em;
+}
+
+.type{
+	vertical-align: middle;
+	text-align: right;
+	padding: 0px;
+}
+
+.tag{
+	font-size: 1em;
+	color: grey;
+}
